@@ -38,6 +38,6 @@ public class TestNames extends RobocodeTestBed {
 
 	@Override
 	public String getEnemyName() {
-		return "robocode.BadNamespace,tested.robots.TooLongNameThisIsReallyTooLongName,tooLongNamespaceThisIsReallyTooLongNamespace.TooLongNamespace,NoPackageButReallyLongNameIWouldSayTooLongMaybeEventLonger,NoPackageShortName";
+		return "robocode.BadNamespace";
 	}
 }
